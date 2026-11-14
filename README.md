@@ -1,88 +1,63 @@
-# Hi, I'm Chiheb 👋
+# Chiheb Ben Cheikh
 
-**Full-Stack Engineer** building real-time platforms across Python, Node.js, Laravel, and React — with a serious AI/LLM side.
+**Founder of [BiancoToro Technologies](https://biancotoro.com/) · Software Architect**
 
-I ship across the stack: async backends, real-time pipelines, agentic AI workflows, modern frontends, and the DevOps glue underneath. I write the kind of code that survives contact with production.
+I work on product engineering, agentic AI workflows and cloud architecture. Through BiancoToro Technologies SUARL in Tunisia, I offer architecture and security reviews, product development and embedded engineering support.
 
-🌍 Based in Tunis, Tunisia · open to **remote** roles and freelance · [chihebbencheikh.com](https://chihebbencheikh.com)
+[Portfolio](https://www.chihebbencheikh.com/) · [BiancoToro](https://biancotoro.com/) · [LinkedIn](https://www.linkedin.com/in/chiheb-ben-cheikh/) · [Discuss a project](https://biancotoro.com/#contact)
 
----
+## Experience
 
-## 🛠 Stack I work with daily
+- **BiancoToro Technologies:** founder, with a focus on software architecture, product engineering, agentic AI and application security.
+- **Guimauve Digital / ControlResell:** software engineering consultant, contributing hands-on development to a SaaS product for second-hand resellers.
+- **Offmon:** principal engineering work across backend microservices, web frontend, an Android application and cloud operations.
+- **Freelance work:** Shopify development, plus Vue.js/Laravel work with Cypress and PHPUnit at K-tronik GmbH.
 
-```text
-Backend       Python · Django · DRF · FastAPI · Celery · Channels
-              Node.js · Express · Socket.io · TypeScript · NestJS
-              Laravel 11 · Eloquent · Horizon · Sanctum · Vue Flow
-              Java · Spring Boot
+## Open-source contributions
 
-Frontend      React 18/19 · Next.js (App Router) · Vue 3
-              TypeScript · Tailwind · Zustand · React Flow
+Personal open-source contributions. Status checked on **14 November 2026**.
 
-AI / LLM      LangGraph · Ollama · RAG (ChromaDB) · LoRA (PEFT)
-              Agentic AI (ReAct) · Vercel AI SDK · Claude API
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [Hugging Face](https://github.com/huggingface/huggingface_hub/pull/5099) | Replace stale directory listings and prevent a file lookup from corrupting its folder cache. | Merged |
+| [llama.cpp](https://github.com/ggml-org/llama.cpp/pull/29127) | Accept escaped hyphens during JSON Schema conversion so string pattern constraints are preserved. | Merged |
+| [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry/pull/4379) | Cancel the DataLoader dispatch task when all waiting futures are cancelled. | Merged |
+| [Next.js](https://github.com/vercel/next.js/pull/93150) | Propose template-literal support for middleware matcher analysis. | Open PR |
+| [Bandit](https://github.com/PyCQA/bandit/pull/1446) | Propose detecting locally defined Markup subclasses in the B704 check. | Open PR |
+| [Swiftlet](https://www.npmjs.com/package/@chiheb_ben_cheikh/swiftlet) | Author of a published TypeScript web framework for Node.js. | Published package |
 
-Data          PostgreSQL · MySQL · Redis · ChromaDB · SQLite
+## Selected projects
 
-DevOps        Docker · Kubernetes · Terraform (AWS ECS, GKE)
-              GitHub Actions · Nginx · eBPF Falco · Loki
-```
+| Project | Focus | Stack |
+| --- | --- | --- |
+| [Graphify](https://github.com/ChihebBENCHEIKH1/graphify) | Cross-repository dependency graphs for contracts, routes and message-bus relationships. | Python, Tree-Sitter, Kotlin tooling |
+| [FinRAG](https://github.com/ChihebBENCHEIKH1/Finrag) | Evaluation-driven retrieval over financial filings, with documented findings and limitations. | Python, RAG, retrieval evaluation |
+| [Ghostwire](https://github.com/ChihebBENCHEIKH1/ghostwire) | Visual API pipelines with real-time execution and an experimental SRE agent. | TypeScript, Next.js, Node.js, Docker |
+| [FlowForge](https://github.com/ChihebBENCHEIKH1/FlowForge) | A visual workflow builder with queue-backed execution and webhook/cron triggers. | Laravel, Vue, Redis, PostgreSQL |
+| [Sentinel-Remediator](https://github.com/ChihebBENCHEIKH1/Sentinel-Remediator) | An agent project exploring vulnerability remediation and Docker build verification. | Go, Next.js, LLM agents, Docker |
+| [RAG + LoRA assistant](https://github.com/ChihebBENCHEIKH1/rag-lora-sre-assistant) | Local-model fine-tuning and retrieval over SRE runbooks. | Python, Qwen, PEFT, ChromaDB |
 
----
+Other work: [PulseBoard](https://github.com/ChihebBENCHEIKH1/PulseBoard), [DevSecOps boilerplate](https://github.com/ChihebBENCHEIKH1/DevSecOps-boilerplate), and [Swiftlet](https://github.com/ChihebBENCHEIKH1/swiftlet).
 
-## 🚀 Featured Projects
+## Technical areas
 
-### [Ghostwire](https://github.com/ChihebBENCHEIKH1/ghostwire) — Live Visual API Builder
-> Drag-and-drop visual platform for designing API pipelines with real-time execution, Docker provisioning, and an AI SRE agent that auto-remediates failures.
+- **Product engineering:** Python, TypeScript, Go, Node.js, FastAPI, Django, React, Next.js, Laravel and Vue.
+- **AI systems:** LLM integration, prompt engineering, tool-using agents, RAG, evaluation and LoRA/PEFT.
+- **Cloud and delivery:** Docker, Kubernetes, Terraform, AWS/GCP and GitHub Actions.
+- **Application security:** code review, SAST/DAST integration and dependency remediation.
 
-`Next.js` · `Express` · `Socket.io` · `React Flow` · `Monaco` · `Docker` · `Terraform` · `AWS ECS Fargate`
+## Education
 
-### [PulseBoard](https://github.com/ChihebBENCHEIKH1/PulseBoard) — Real-Time Task Orchestration
-> Distributed task platform with Celery workers, Channels broadcasts via Redis pub/sub, JWT auth, and a React/Vite dashboard with live updates — zero polling.
+**Research master's in Information System Techniques (IST)** — National Engineering School of Tunis (ENIT), University of Tunis El Manar.
 
-`Django 5` · `DRF` · `Celery` · `Channels` · `Redis` · `PostgreSQL` · `React` · `Docker Compose`
+The program is offered in cooperation with Technische Universität Braunschweig, Germany.
 
-### [FlowForge](https://github.com/ChihebBENCHEIKH1/FlowForge) — Laravel Workflow Automation Engine
-> Mini-Zapier on Laravel 11 with a Vue 3 drag-and-drop builder, DAG executor on Horizon queues, HMAC-verified webhooks, cron triggers, and Sanctum-secured API.
+## Research in progress
 
-`Laravel 11` · `Vue 3` · `Vue Flow` · `Horizon` · `PostgreSQL` · `Redis` · `Pest`
+**Beyond Teacher Imitation: Provenance-Partitioned Distillation of Vision-Language Models** — unpublished manuscript.
 
-### [rag-lora-sre-assistant](https://github.com/ChihebBENCHEIKH1/rag-lora-sre-assistant) — LoRA + RAG SRE Knowledge Assistant
-> Qwen2.5-3B fine-tuned with LoRA (0.96% of params, 60MB adapter) and grounded with RAG over runbooks. Trained on a single T4 GPU.
+Co-author, contributing research and writing with Khouloud Ben Cheikh. The work studies field-level supervision for vision-language model distillation: teacher outputs for descriptive fields, verified ground truth for decision-critical fields, and rules for deterministic fields.
 
-`Python` · `PyTorch` · `PEFT` · `ChromaDB` · `FastAPI` · `Gradio`
+## Work with me
 
-### [Sentinel-Remediator](https://github.com/ChihebBENCHEIKH1/Sentinel-Remediator) — Autonomous Security AI Agent
-> ReAct agent (Go) that ingests vulnerability scans, generates fixes, verifies them via local Docker builds, and opens pull requests. Real-time dashboard streams agent reasoning.
-
-`Go` · `Next.js` · `ReAct` · `Anthropic / OpenAI` · `Qdrant` · `Docker` · `SSE`
-
-### [DevSecOps Boilerplate](https://github.com/ChihebBENCHEIKH1/DevSecOps-boilerplate) — GKE Hardened Reference
-> Production-grade FastAPI on GKE with VPC-native networking, eBPF Falco runtime security, Workload Identity, and Loki on GCS for cost-optimized logging.
-
-`Terraform` · `GKE` · `eBPF` · `Falco` · `Loki` · `FastAPI`
-
----
-
-## 🌍 Open Source Contributions
-
-- **[Next.js (Vercel · 139k★)](https://github.com/vercel/next.js/pull/93150)** — added template literal support to middleware `config.matcher` analysis, unblocking dynamic i18n matchers
-- **[Strawberry GraphQL (4k★, merged)](https://github.com/strawberry-graphql/strawberry)** — fixed DataLoader task cancellation leak in the async batching loop
-- **[git-cliff (Rust · 2.13.0)](https://github.com/orhun/git-cliff/pull/1239)** — exposed version bump type (`major` / `minor` / `patch`) in template context for richer release notes
-
----
-
-## 📈 GitHub Stats
-
-![Chiheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChihebBENCHEIKH1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChihebBENCHEIKH1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
----
-
-## 📬 Get in touch
-
-- 🌐 Portfolio — [chihebbencheikh.com](https://chihebbencheikh.com)
-- 💼 LinkedIn — [chiheb-ben-cheikh](https://www.linkedin.com/in/chiheb-ben-cheikh/)
-- 📧 Email — bencheikh.chiheb@gmail.com
-
-> Currently open to **remote** full-time and freelance roles — backend-heavy, AI/LLM integration, or full-stack with a real product mandate.
+For product engineering, agentic AI workflows or an architecture and security review, [start a conversation with BiancoToro](https://biancotoro.com/#contact).
