@@ -37,6 +37,8 @@ Personal open-source contributions. Status checked on **14 November 2026**.
 | [Sentinel-Remediator](https://github.com/ChihebBENCHEIKH1/Sentinel-Remediator) | An agent project exploring vulnerability remediation and Docker build verification. | Go, Next.js, LLM agents, Docker |
 | [RAG + LoRA assistant](https://github.com/ChihebBENCHEIKH1/rag-lora-sre-assistant) | Local-model fine-tuning and retrieval over SRE runbooks. | Python, Qwen, PEFT, ChromaDB |
 
+[FinRAG case study](https://www.chihebbencheikh.com/case-studies/finrag-retrieval-evaluation/) — How I compared BM25, dense and hybrid retrieval, and where recall dropped on held-out financial questions.
+
 Other work: [PulseBoard](https://github.com/ChihebBENCHEIKH1/PulseBoard), [DevSecOps boilerplate](https://github.com/ChihebBENCHEIKH1/DevSecOps-boilerplate), and [Swiftlet](https://github.com/ChihebBENCHEIKH1/swiftlet).
 
 ## Technical areas
